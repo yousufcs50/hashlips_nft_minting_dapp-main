@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xad2ca1Cdb833d24920bA9e9656B09b7d6a455cD0",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xad2ca1cdb833d24920ba9e9656b09b7d6a455cd0",
+  "NETWORK": {
+    "NAME": "goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "UchiCollectorPass",
+  "SYMBOL": "UCP",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
